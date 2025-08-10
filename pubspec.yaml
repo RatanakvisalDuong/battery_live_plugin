@@ -1,7 +1,7 @@
 name: battery_live_plugin
 description: "Visal flutter plugin for battery live."
 version: 0.0.1
-homepage:
+homepage: https://github.com/RatanakvisalDuong/battery_live_plugin
 
 environment:
   sdk: ^3.7.0
